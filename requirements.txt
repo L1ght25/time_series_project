@@ -1,0 +1,11 @@
+numpy
+pandas
+catboost
+statsforecast
+datasetsforecast
+statsmodels
+matplotlib
+seaborn
+tqdm
+scikit-learn
+ipykernel
